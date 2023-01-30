@@ -71,14 +71,14 @@ home.html
                     </div>
                 </header>
                 <div class="title">
-                    <h1>Sparkle and Shine</h1>
+                    <h1>Fashion style</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
                     <marquee><b>Feel BEAUTY through our Store</b></marquee>
                     <p style="color:purple; font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Fancy Store</p>
                     </div>
-                    <p>Buy Fancy items and Cosmetics online for Women from <span style="background-color:lime">Sparkle and Shine</span>
+                    <p>Buy Fancy items and Cosmetics online for Women from <span style="background-color:lime">Fashion style</span>
                          for Rs.100 | Buy cosmetics in ONE SIZE online | 7 Days Returns | Trend setting models | And much more</p>
                     <br>
                 <center>
@@ -93,7 +93,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
+                Copyright &copy;2023 Developed by Abinav></div>
             </div>
         </div>
     </body>
@@ -296,11 +296,11 @@ products.html
                     <div class="l6"><p align="center"><b>Primer<br> Price: 5999.00</b><br><br><br><br></p></div>
          
                 </div>
-                <div class="bot"><p>To Order Online: Call 98 78 70 7889</p></div>
+                <div class="bot"><p>To Order Online: Call 90 80 70 2009</p></div>
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
+                Copyright &copy;2023 Developed by Abinav</footer></div>
             </div>
         </div>
     </body>
@@ -344,12 +344,12 @@ people.html
             margin-right:auto;
         }
         .ceoph{
-            background-image: url(/static/images/p1.jpeg);
+            background-image: url(/static/images/me.jpeg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
             border:3px solid gold;
-            height:300px;
+            height:250px;
             width:20%;
             position:relative;
             left: 0px;
@@ -364,7 +364,7 @@ people.html
             
         }
         .manph1{
-            background-image: url(/static/images/p2.jpeg);
+            background-image: url(/static/images/p1.jpeg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -382,7 +382,7 @@ people.html
             
         }
         .manph2{
-            background-image: url(/static/images/p3.jpeg);
+            background-image: url(/static/images/p2.jpeg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -402,7 +402,7 @@ people.html
         }
         
         .amph1{
-            background-image: url(/static/images/p4.jpeg);
+            background-image: url(/static/images/p3.jpeg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -422,7 +422,7 @@ people.html
         }
 
         .amph2{
-            background-image: url(/static/images/p5.jpeg);
+            background-image: url(/static/images/p4.jpeg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -441,7 +441,7 @@ people.html
             text-align:center;
         }
         .amph3{
-            background-image: url(/static/images/p6.jpeg);
+            background-image: url(/static/images/p5.jpeg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -487,28 +487,28 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Praisey Solomon</h2></b></div>
+                    <div class="ceo"><p align="center"><b><h2>Abinav</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
                     </div>
                     <div class="manph1"></div>
-                    <div class="man1"><p align="center"><b><h2>Anto Jessi</h2></b></p></div>
+                    <div class="man1"><p align="center"><b><h2>Prabhjo singh</h2></b></p></div>
                     <div class="manph2"></div>
-                    <div class="man2"><p><b><h2>Sandhya Balamurali</h2></b></p></div>
+                    <div class="man2"><p><b><h2>Hamsini</h2></b></p></div>
                     <br>
                     <div class="text"><p><b><u>Managers</u></b></p></div><br>
                     <div class="amph1"></div>
-                    <div class="am1"><p align="center"><b><h2>Narthika</h2></b></p></div>
+                    <div class="am1"><p align="center"><b><h2>Srinidhi</h2></b></p></div>
                     <div class="amph2"></div>
-                    <div class="am2"><p align="center"><b><h2>Nithyaa Sri Saravanan</h2></b></p></div>
+                    <div class="am2"><p align="center"><b><h2>Lokesh khanna</h2></b></p></div>
                     <div class="amph3"></div>
-                    <div class="am3"><p align="center"><b><h2>Bindhya Balamurali</h2></b></p></div><br>
+                    <div class="am3"><p align="center"><b><h2>Aashika</h2></b></p></div><br>
                     <div class="text">Thank you so much for your kind support!<br>Hope our products had made you more B-E-A-UTIFUL!</div>
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
+                Copyright &copy;2023 Developed by Abinav</footer></div>
             </div>
         </div>
     </body>
@@ -564,28 +564,28 @@ contact.html
                     </div>
                     <b><h2>Contact Information:</h2></b>
                     <p><b>&emsp;&ensp;Address:</b>
-                        Kancheepuram, Chennai, TamilNadu, India.
+                        kanchipuram,chennai,India
                     </p>
                     <ul>
-                        <li><b>Landline:</b> 12345678</li>
-                        <li><b>Mobile</b>: 90 80 70 2009</li>
-                        <li><b>Facebook</b>: fb/sparkleshine</li>
-                        <li><b>Email Id:</b>praise@sparkleshine.com</li>
+                        <li><b>Landline:</b> 4871683254</li>
+                        <li><b>Mobile</b>: 57136878</li>
+                        <li><b>Facebook</b>: fb/cartoonpro</li>
+                        <li><b>Email Id:</b>Abi@fancyuniv.com</li>
                     </ul>
                     <div style="text-align: center;color:violet;font-size:20px;"><b>Use our services and Beautify Yourself!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
+                Copyright &copy;2023 Developed by Abinav Sankar S</footer></div>
             </div>
         </div>
     </body>
-</html>
+    </html>
 
-style.css
+styles.css
 
-        .home{
+       .home{
             height: 700px;
             width: 85%;
             border: 12px solid red;
@@ -716,19 +716,19 @@ style.css
             margin-right:auto;
 
         }
-```
 
+```
 ## Output:
-![out1](https://user-images.githubusercontent.com/119394259/215015453-856b1a3c-a0a3-4fce-a5f5-3f218d7e93bd.png)
-![out2](https://user-images.githubusercontent.com/119394259/215015475-b940b60b-c18b-4f0c-9548-66d2a74c2cda.png)
-![out3](https://user-images.githubusercontent.com/119394259/215015495-5e8b5b65-205f-4c9e-ba47-c1ea35bbab81.png)
-![out4](https://user-images.githubusercontent.com/119394259/215015516-5a6bc63f-e99a-4056-ae6f-3eed8639ab09.png)
+![Output](./out1.png)
+![Output](./out2.png)
+![Output](./out3.png)
+![Output](./out4.png)
 
 
 
 ## HTML Validator
 
-![valid](https://user-images.githubusercontent.com/119394259/215015553-3c4960e2-fc36-40bc-8eb6-93374f024046.png)
+![Output](./valid.png)
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
